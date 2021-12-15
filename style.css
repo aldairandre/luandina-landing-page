@@ -38,7 +38,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    z-index: 2;
+    z-index: 3;
 }
 
 header ul {
@@ -46,7 +46,6 @@ header ul {
     align-items: baseline;
     gap: 18px;
     color: #ffffff;
-   
 }
 
 header ul li {
@@ -63,7 +62,7 @@ main {
     width: 100%;
     padding: 0 100px;
     position: relative;
-    
+    z-index: 1;
 }
 
 .bg-banner {
@@ -72,7 +71,7 @@ main {
     height: 100%;
     width: 100%;
     left: 0;
-    
+    z-index: 3;
 }
 
 .direita {
@@ -96,6 +95,7 @@ main {
     color: white;
     opacity: 0.8;
     font-size: 19rem;
+    
 }
 
 .dina{
@@ -108,21 +108,23 @@ main {
 .conteudo {
     position: absolute;
     width: 100%;
-    height: 100%;
-    display: none;
+    height: 50vh;
+    z-index: 10;
+    margin-top: 30vh;
+    display: flex;
     justify-content: space-between;
     
  }
 
 
 .cerveja-conteiner {
-    width: 500px;
-    height: 500px;
+    width: 100px;
+    height: 100px;
     position: absolute;
 }
 
 .cerveja-img {
-    z-index: 3;
+    z-index: 1;
 }
 
 .graphic {
