@@ -8,4 +8,4 @@
     Sobre o UI/UI Designer encontra as informações em <a href="https://www.facebook.com/mariomonteiro.mario">MCMMEDIA</a>
 </p>
 
-![Mockup](./src/components/Mockup/SPRK_default_preset_name_iphone_6_7_8_plus%20%E2%80%93%2019.png)
+![Mockup](./public/Mockup/SPRK_default_preset_name_iphone_6_7_8_plus%20%E2%80%93%2019.png)
