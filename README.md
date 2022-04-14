@@ -1,7 +1,7 @@
 # Luandina-landing-page
 
 <p>
-    Esteja a vontade  para baixar este projeto codado por mim <span style="color:rgb(121, 33, 143);"><a target="_blank" href="https://linktr.ee//aldairandre">Aldair André</a></br>Construido com react, disponivel apenas para telas a cima de 1024px.</span></p>
+    Esteja a vontade  para baixar este projeto codado por mim <span style="color:rgb(121, 33, 143);"><a target="_blank" href="https://linktr.ee//aldairandre">Aldair André</a></br>Construido com react, disponivel apenas para telas acima de 1024px.</span></p>
     
 <p>
     Página ainda em desenvolvimento, o projecto terá aparentemente apenas versão desktop porque o designer construi assim.
