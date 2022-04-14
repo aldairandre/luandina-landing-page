@@ -67,14 +67,14 @@ header nav {
     font-size: larger;
 }
 
-.search-img {
-    height: 100%;
-    width: 40px;
+.search-icon {
+    font-size: 1.3rem;
+    color: #000000;
     position: absolute;
-    background-color: #F1F1F1;
+    background-color: #ffffff;
     padding: 8px;
-    left: 83%;
-    border-radius: 15px 15px 15px 15px;
+    left: 84%;
+    border-radius: 30px ;
 }
 
 .container-bg{

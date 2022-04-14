@@ -12,8 +12,8 @@ export default function Header(){
             </ul>
           </nav>
           <div className="search">
-              <input className="search-btn"type="search" placeholder="Pesquisar"/>
-              <img src="./assets/icones/loupe.png" alt="search" className="search-img"/>
+              <input className="search-btn" type="search" placeholder="Pesquisar"/>
+              <i class="bi bi-search search-icon"></i>
           </div>
         </header>
     )
