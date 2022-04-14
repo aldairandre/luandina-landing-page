@@ -2,7 +2,7 @@
 
 <p>
     Esteja a vontade  para baixar este projeto codado por mim <span style="color:rgb(121, 33, 143);"><a target="_blank" href="https://linktr.ee//aldairandre">Aldair André</a></span></p>
-    Tenciono  adicionar as animações e depois migrar o projeto para a biblioteca React.
+    Contruido com react, disponivel apenas para telas a cima de 1024px.
 <p>
     Página ainda em desenvolvimento, o projecto terá aparentemente apenas versão desktop porque o designer construi assim.
     Sobre o UI/UI Designer encontra as informações em <a href="https://www.facebook.com/mariomonteiro.mario">MCMMEDIA</a>
