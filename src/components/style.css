@@ -181,8 +181,10 @@ z-index: 1;}
     top: 70vh;
 }
 
-.more img {
+.more i {
     cursor: pointer;
+    color: #040404;
+    font-size: 3rem;
 }
 
 .more-txt{
@@ -209,4 +211,6 @@ z-index: 1;}
 
 .follow ul li a {
     text-decoration: none;
+    color: #000;
+    font-size: 1.3rem;
 }

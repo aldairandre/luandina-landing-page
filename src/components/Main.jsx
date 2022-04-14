@@ -17,19 +17,19 @@ export default function Main(){
                </div>
            </div>
            <div className="luandina-lata-container">
-               <img src="../assets/imagens/luandina.png" alt="lata da luandina" className="luandina-lata"/>
-               <img src="../assets/imagens/graphic.png" alt="graphic" className="graphic"/>
+               <img src="./assets/imagens/luandina.png" alt="lata da luandina" className="luandina-lata"/>
+               <img src="./assets/imagens/graphic.png" alt="graphic" className="graphic"/>
            </div>
            <div className="more">
                <p className="more-txt">Ver mais</p>
-               <img src="../assets/icones/Repetição de grade 1.png" alt=""/>
+               <i class="bi bi-arrow-right-circle"></i>
            </div>
            <nav className="follow">
                <ul>
                    <li>Siga-nos</li>
-                   <li><a href="#"><img src="../assets/social media/facebook.png" alt="facebook"/></a></li>
-                   <li><a href="#"><img src="../assets/social media/instagram.png" alt="instagram"/></a></li>
-                   <li><a href="#"><img src="../assets/social media/twitter.png" alt="twitter"/></a></li>
+                   <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+                   <li><a href="#"><i class="bi bi-instagram"></i></a></li>
+                   <li><a href="#"><i class="bi bi-github"></i></a></li>
                </ul>
            </nav>
        </main>
