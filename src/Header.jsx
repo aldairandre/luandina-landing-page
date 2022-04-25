@@ -13,7 +13,7 @@ export default function Header(){
           </nav>
           <div className="search">
               <input className="search-btn" type="search" placeholder="Pesquisar"/>
-              <i class="bi bi-search search-icon"></i>
+              <i className="bi bi-search search-icon"></i>
           </div>
         </header>
     )

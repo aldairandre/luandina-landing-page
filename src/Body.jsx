@@ -22,14 +22,14 @@ export default function Main(){
            </div>
            <div className="more">
                <p className="more-txt">Ver mais</p>
-               <i class="bi bi-arrow-right-circle"></i>
+               <i className="bi bi-arrow-right-circle"></i>
            </div>
            <nav className="follow">
                <ul>
                    <li>Siga-nos</li>
-                   <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                   <li><a href="#"><i class="bi bi-instagram"></i></a></li>
-                   <li><a href="#"><i class="bi bi-github"></i></a></li>
+                   <li><a href="#"><i className="bi bi-facebook"></i></a></li>
+                   <li><a href="#"><i className="bi bi-instagram"></i></a></li>
+                   <li><a href="#"><i className="bi bi-github"></i></a></li>
                </ul>
            </nav>
        </main>

@@ -1,5 +1,5 @@
 import Header from './Header'
-import Main from './Body'
+import Body from './Body'
 import './App.css'
 
 function App() {
