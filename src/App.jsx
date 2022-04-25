@@ -1,12 +1,12 @@
-import Header from './components/Header'
-import Main from './components/Main'
-import './components/style.css'
+import Header from './Header'
+import Main from './Body'
+import './style.css'
 
 function App() {
   return(
     <div className='container-app'>
-         <Header></Header>
-         <Main></Main>
+         <Header/>
+         <Main/>
     </div>
   )
 }
