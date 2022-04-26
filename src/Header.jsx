@@ -1,7 +1,7 @@
 import './App.css'
 export default function Header(){
     return(
-        <header>
+        <header className='animate__animated animate__fadeInDown animate__delay-1s'>
           <nav>
             <ul className="h-list">
                 <li><a href="#"><img src="./assets/imagens/Logo.png" alt="Logo da Luandina"/></a></li>
