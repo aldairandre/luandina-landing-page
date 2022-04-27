@@ -13,8 +13,8 @@ export default function Main(){
            <div className="container-info animate__animated animate__fadeInLeftBig animate__delay-1s">
                <div className="txt-info">
                    <h2>Tem uma, tem tudo</h2>
-                   <p className='hvr-grow'>Cerveja angolana reconhecida internacionamente.<br/>Detentora de prémios por ser saborosa e trazer a alegria a quem consome</p>
-                   <button className="quero-btn animate__animated animate__fadeInLeftBig animate__delay-1s hvr-bubble-bottom">Quero uma</button>
+                   <p>Cerveja angolana reconhecida internacionamente.<br/>Detentora de prémios por ser saborosa e trazer a alegria a quem consome</p>
+                   <button className="quero-btn animate__animated animate__fadeInLeftBig animate__delay-1s ">Quero uma</button>
                </div>
            </div>
            <div className="luandina-lata-container">
@@ -30,7 +30,7 @@ export default function Main(){
                    <li>Siga-nos</li>
                    <li><a href="#"><i className="bi bi-facebook hvr-grow"></i></a></li>
                    <li><a href="#"><i className="bi bi-instagram hvr-grow"></i></a></li>
-                   <li><a href="#" className='hvr-grow'><i className="bi bi-github "></i></a></li>
+                   <li><a href="#"><i className="bi bi-github hvr-grow"></i></a></li>
                </ul>
            </nav>
        </main>

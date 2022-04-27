@@ -12,9 +12,9 @@ export default function Header(){
             <ul className="h-list">
                 <li className='hvr-grow'><a href="#"><img src="./assets/imagens/Logo.png" alt="Logo da Luandina" /></a></li>
                 <li><a className="active hvr-underline-from-center" href="#">Home</a></li>
-                <li><a href="#" onClick={activeEfect('item3')} id='item3' className='hvr-underline-from-center'>Lojas</a></li>
-                <li><a href="#" onClick={activeEfect('item4')} id='item4' className='hvr-underline-from-center'>Produção</a></li>
-                <li><a href="#" onClick={activeEfect('item5')} id='item5' className='hvr-underline-from-center'>Sobre</a></li>
+                <li><a href="#" className='hvr-underline-from-center'>Lojas</a></li>
+                <li><a href="#" className='hvr-underline-from-center'>Produção</a></li>
+                <li><a href="#" className='hvr-underline-from-center'>Sobre</a></li>
             </ul>
           </nav>
           <div className="search">
