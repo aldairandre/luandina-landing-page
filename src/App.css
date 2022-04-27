@@ -134,7 +134,7 @@ z-index: 1;}
     -webkit-text-stroke-color: #3e64ee;
 }
 
-.quero-btn {
+.hbtn {
     margin-top: 20px;
     padding: 12px 40px;
     font-size: 1.3rem;
@@ -145,19 +145,46 @@ z-index: 1;}
     border-width: 3px;
     cursor: pointer;
 }
+ 
+.hbtn i {
+    padding-right: 8px;
+} 
 
-.quero-btn-grow {
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-    -webkit-transition-duration: 0.3s;
+
+.hb-border-bottom-br4 {
+    position: relative;
     transition-duration: 0.3s;
-    -webkit-transition-property: width;
-    transition-property: width;
-  }
+    overflow: visible;
+    box-sizing: border-box;
+    border: none;
+    padding: 10px 22px;
+} 
 
-  .quero-btn-grow:hover{
-    
-    width: 300px;
-  }
+
+.hb-border-bottom-br4::after {
+    box-sizing: border-box;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content: "";
+    border: 2px solid rgb(255, 255, 255);
+    z-index: 2;
+    margin: 0px;
+    left: 0px;
+    bottom: 0px;
+    border-top-width: 2px;
+    transition: border-top-width 0.1s ease 0.2s, height 0.2s ease 0.1s, width 0.2s ease 0s, margin 0.2s ease 0s, border-bottom-width 0.2s ease 0s;
+} 
+
+
+.hb-border-bottom-br4:hover::after {
+    width: 60%;
+    height: 0px;
+    border-width: 0px 2px 4px;
+    margin: 0px 20%;
+    transition: border-top-width 0.1s ease 0s, height 0.2s ease 0.1s, width 0.2s ease 0.2s, margin 0.2s ease 0.2s, border-bottom-width 0.2s ease 0.2s;
+} 
+
 
 .luandina-lata-container {
     position: absolute;

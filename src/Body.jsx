@@ -14,7 +14,7 @@ export default function Main(){
                <div className="txt-info">
                    <h2>Tem uma, tem tudo</h2>
                    <p>Cerveja angolana reconhecida internacionamente.<br/>Detentora de prémios por ser saborosa e trazer a alegria a quem consome</p>
-                   <button className="quero-btn animate__animated animate__fadeInLeftBig animate__delay-1s ">Quero uma</button>
+                   <button className="hbtn hb-border-bottom-br4 animate__animated animate__fadeInLeftBig animate__delay-1s">Quero uma</button>
                </div>
            </div>
            <div className="luandina-lata-container">
