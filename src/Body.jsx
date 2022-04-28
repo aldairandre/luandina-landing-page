@@ -28,8 +28,8 @@ export default function Main(){
                <ul>
                    <li>Siga-nos</li>
                    <li className='hvr-grow'><a href="#"><i className="bi bi-facebook"></i></a></li>
-                   <li className='hvr-grow'><a href="#"><i className="bi bi-instagram"></i></a></li>
-                   <li className='hvr-grow'><a href="#"><i className="bi bi-github"></i></a></li>
+                   <li className='hvr-grow'><a href="https://www.instagram.com/aldairandre9/" target="_blank" rel="noopener noreferrer"><i className="bi bi-instagram"></i></a></li>
+                   <li className='hvr-grow'><a href="https://github.com/aldairandre/luandina-landing-page" target="_blank" rel="noopener noreferrer"><i className="bi bi-github"></i></a></li>
                </ul>
            </nav>
        </main>
