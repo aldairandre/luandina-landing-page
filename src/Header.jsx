@@ -1,5 +1,4 @@
 import './App.css'
-import './App-Hover.css'
 
 const activeEfect = (id) => {
   console.log(id);

@@ -1,5 +1,4 @@
 import './App.css'
-import './App-Hover.css'
 
 export default function Main(){
     return(
