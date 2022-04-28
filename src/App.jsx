@@ -1,5 +1,6 @@
 import Header from './Header'
 import Body from './Body'
+import Warning from'./Wornig'
 import './App.css'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className='container-app'>
          <Header/>
          <Body/>
+         <Warning/>
     </div>
   )
 }
