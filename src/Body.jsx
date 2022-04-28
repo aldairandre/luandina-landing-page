@@ -8,7 +8,8 @@ export default function Main(){
                <div className="right"></div>
            </div>
            <h1 className="ltext">
-               <span className="luand-txt">LUAN</span><span className="dina">DINA</span></h1>
+               <span className="luand-txt">LUAN</span><span className="dina">DINA</span>
+            </h1>
            <div className="container-info animate__animated animate__fadeInLeftBig animate__delay-1s">
                <div className="txt-info">
                    <h2>Tem uma, tem tudo</h2>
@@ -21,7 +22,7 @@ export default function Main(){
                <img src="./assets/imagens/graphic.png" alt="graphic" className="graphic animate__animated animate__fadeInUpBig animate__delay-1s"/>
            </div>
            <div className="more animate__animated animate__fadeInRightBig animate__delay-1s ">
-               <p className="more-txt ">Ver mais</p>
+               <p className="more-txt">Ver mais</p>
                <i className="bi bi-arrow-right-circle hvr-grow"></i>
            </div>
            <nav className="follow animate__animated animate__fadeInRightBig animate__delay-1s">
