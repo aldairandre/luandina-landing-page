@@ -14,7 +14,7 @@ export default function Main(){
                <div className="txt-info">
                    <h2>Tem uma, tem tudo</h2>
                    <p>Cerveja angolana reconhecida internacionamente.<br/>Detentora de prémios por ser saborosa e trazer a alegria a quem consome</p>
-                   <button className="hbtn hb-border-bottom-br4 animate__animated animate__fadeInLeftBig animate__delay-1s">Quero uma</button>
+                   <a className="hbtn hb-border-bottom-br4 animate__animated animate__fadeInLeftBig animate__delay-1s">Quero uma</a>
                </div>
            </div>
            <div className="luandina-lata-container">
@@ -28,9 +28,9 @@ export default function Main(){
            <nav className="follow animate__animated animate__fadeInRightBig animate__delay-1s">
                <ul>
                    <li>Siga-nos</li>
-                   <li><a href="#"><i className="bi bi-facebook hvr-grow"></i></a></li>
-                   <li><a href="#"><i className="bi bi-instagram hvr-grow"></i></a></li>
-                   <li><a href="#"><i className="bi bi-github hvr-grow"></i></a></li>
+                   <li className='hvr-grow'><a href="#"><i className="bi bi-facebook"></i></a></li>
+                   <li className='hvr-grow'><a href="#"><i className="bi bi-instagram"></i></a></li>
+                   <li className='hvr-grow'><a href="#"><i className="bi bi-github"></i></a></li>
                </ul>
            </nav>
        </main>
