@@ -16,10 +16,12 @@ export default function Header(){
                 <li><a href="#" className='hvr-underline-from-center'>Sobre</a></li>
             </ul>
           </nav>
-          <div className="search">
-              <input className="search-btn" type="search" placeholder="Pesquisar"/>
-              <i className="bi bi-search search-icon"></i>
-          </div>
+          <div class="submit-line">
+              <input type="text" placeholder='pesquisar uma aqui'/>
+              <button class="submit-lente" type="submit">
+                <i class="bi bi-search search-icon"></i>
+              </button>
+            </div>
         </header>
     )
 }
