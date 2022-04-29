@@ -3,9 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
+    "homepage": "https://aldairandre.github.io/luandina-cerveja",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^17.0.2",
@@ -19,6 +21,7 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.5.0",
+    "gh-pages": "^3.2.3",
     "vite": "^2.9.0"
   }
 }
