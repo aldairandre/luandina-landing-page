@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "homepage": "https://aldairandre.github.io/luandina-cerveja",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
