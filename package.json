@@ -3,12 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "homepage": "https://aldairandre.github.io/luandina-landing-page/",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predeploy":"vite build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^17.0.2",
