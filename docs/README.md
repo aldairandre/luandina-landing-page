@@ -22,6 +22,6 @@ npm run dev
 
 *OBS: Voce deve ter a versão mais recente instalada do Nodejs na sua maquina.*
 
-![Mockup](../public/Mockup/SPRK_default_preset_name_iphone_6_7_8_plus%20%E2%80%93%2019.png)
-
 Online: https://luandina-cerveja.netlify.app/
+
+![Mockup](../public/Mockup/SPRK_default_preset_name_iphone_6_7_8_plus%20%E2%80%93%2019.png)
